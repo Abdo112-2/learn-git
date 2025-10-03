@@ -1,3 +1,17 @@
 h1{
     color:blue;
 }
+
+.t{
+    background: #e79999;
+    color: #09162e;
+    border-radius: 5px;
+    margin: 30px;
+    justify-self: center;
+    justify-content: center;
+    width: 90%;
+    height: 20px;
+    text-align: center;
+    padding: 10px;
+    font-size: larger;
+}
