@@ -4,3 +4,4 @@
 ## see commits versions by "git log -v"
 ## going to versions by "git checkout commit hash"
 ## go to last virsion "git checkout master"
+## create new branch "git checkout name-branch"
