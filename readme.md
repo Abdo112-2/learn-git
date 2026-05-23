@@ -1,0 +1,6 @@
+## create repo files by "git init"
+## add to stage by "git add"
+## added new file in commit by "git commit"
+## see commits versions by "git log -v"
+## going to versions by "git checkout commit hash"
+## go to last virsion "git checkout master"
